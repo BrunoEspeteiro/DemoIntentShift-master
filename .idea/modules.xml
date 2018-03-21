@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\bruno.pereira.SENACEDU\Downloads\Nova pasta\DemoIntentShift-master\DemoIntentShift-master\DemoIntent.iml" filepath="C:\Users\bruno.pereira.SENACEDU\Downloads\Nova pasta\DemoIntentShift-master\DemoIntentShift-master\DemoIntent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoIntentShift-master.iml" filepath="$PROJECT_DIR$/DemoIntentShift-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
